@@ -1,0 +1,5 @@
+create_rows.py is a custom script for a file containing data extracted from an unknown db.
+
+Future plan is to make it generall to work for any .txt or .csv file that contains comma/semicolon/and other seperated values.
+
+Daniel Nilsson - last updated: 100210
